@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mydockerprojectfor5pm
-        image: rahamshaik/mydockerprojectfor5pm:myzomatoimage
+        image: sueesh144/netflixrepo:myzomatoimage
         ports:
         - containerPort: 3000
 
